@@ -1,6 +1,7 @@
 # 💫 About Me:
-🛠 I’m currently working on<br>Strengthening my skills in Data Structures & Algorithms (Java)<br>Exploring scalable system design and secure authentication<br><br>🤝 I’m looking to collaborate on<br>Web development (Flask, MERN)<br>AI-driven projects and hackathons<br><br>🙋 I’m looking for help with<br>Best practices in full-stack project deployment<br>System scalability and optimization<br><br>🌱 I’m currently learning<br>Advanced backend systems.<br>Advanced problem-solving in DSA<br><br>💡 Ask me about<br>Organizing technical events (coding club & BICEP experience)<br>APIs, authentication & scalable systems<br><br>⚡ Fun fact <br>I once headed logistics in college and realized organizing people can be harder than organizing code.
+🛠 I specialize in building full-stack web applications that are fast, reliable, and user-friendly. With a solid foundation in both frontend and backend technologies, I help bring ideas to life whether it's for a business, a startup, or a product team.
 
+⚡Fun fact <br>I once headed logistics in college and realized organizing people can be harder than organizing code.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushikkanduri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushikkanduri883@gmail.com) 
