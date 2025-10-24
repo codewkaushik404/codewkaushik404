@@ -6,7 +6,7 @@ Beyond coding, I have experience leading teams and organizing events, which taug
 
 ---
 ## Badges
-[![Holopin Badges](https://holopin.me/kaushikkanduri)]
+![Holopin Badges](https://holopin.me/kaushikkanduri)
 
 ---
 
