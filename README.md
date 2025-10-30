@@ -1,6 +1,6 @@
 #  Hi there, I'm Kaushik K S 
 
-I’m a passionate **Computer Science Engineer & Full-Stack Developer** who loves building **fast, reliable, and user-friendly web applications**. I enjoy turning ideas into reality—whether it's a startup, a product, or a personal project.
+I’m a **Computer Science Engineer & Full-Stack Developer** who loves building **fast, reliable, and user-friendly web applications**. I enjoy turning ideas into reality—whether it's a startup, a product, or a personal project.
 
 ---
 ## Badges
