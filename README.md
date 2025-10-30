@@ -2,8 +2,6 @@
 
 I’m a passionate **Computer Science Engineer & Full-Stack Developer** who loves building **fast, reliable, and user-friendly web applications**. I enjoy turning ideas into reality—whether it's a startup, a product, or a personal project.
 
-Beyond coding, I have experience leading teams and organizing events, which taught me that **managing people can be as challenging as managing code** 😄.  
-
 ---
 ## Badges
 ![Holopin Badges](https://holopin.me/kaushikkanduri)
