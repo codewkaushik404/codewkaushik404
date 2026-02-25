@@ -14,8 +14,8 @@ I build scalable, production-grade applications with a strong focus on system de
 
 Computer Science under-graduate with hands-on experience designing and deploying 10+ end-to-end applications using the MERN stack. I specialize in backend-heavy systems — designing RESTful APIs, implementing authentication (JWT/OAuth), optimizing database performance, and enforcing modular, maintainable architectures.
 
-I care about writing code that scales, systems that are observable, and products that solve real problems — not just demos.
-Currently interested in backend engineering, distributed systems, and high-impact product engineering roles.
+I care about writing code that scales, systems that are observable, and products that solve real problems — not just demos.           
+Interested in backend engineering, distributed systems, and high-impact product engineering roles.
 
 ## Badges
 ![Holopin Badges](https://holopin.me/kaushikkanduri)
