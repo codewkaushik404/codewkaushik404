@@ -1,86 +1,33 @@
-#  Hi there, I'm Kaushik K S 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi,+I'm+Kaushik+K.S.;Backend+Engineer;Systems-Oriented+Full-Stack+Developer;Scalable+%7C+Secure+%7C+Performant+Systems" />
+</p>
 
-I’m a **Computer Science Engineer & Full-Stack Developer** who loves building **fast, reliable, and user-friendly web applications**. I enjoy turning ideas into reality—whether it's a startup, a product, or a personal project.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,python,nodejs,express,mongodb,postgres,mysql,docker,aws,vercel,git,github,react,tailwind,html,css,figma,postman,prisma&perline=11" />
+  </a
+</p>
 
----
+## About Me
+
+I build scalable, production-grade applications with a strong focus on system design, performance optimization, and clean architecture.
+
+Computer Science under-graduate with hands-on experience designing and deploying 10+ end-to-end applications using the MERN stack. I specialize in backend-heavy systems — designing RESTful APIs, implementing authentication (JWT/OAuth), optimizing database performance, and enforcing modular, maintainable architectures.
+
+I care about writing code that scales, systems that are observable, and products that solve real problems — not just demos.
+Currently interested in backend engineering, distributed systems, and high-impact product engineering roles.
+
 ## Badges
 ![Holopin Badges](https://holopin.me/kaushikkanduri)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewkaushik404&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)  
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=codewkaushik404&theme=gruvbox_light&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewkaushik404&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
-
----
-
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=codewkaushik404&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-## Connect with Me
+# 🔥 Contribution Streak
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaushikkanduri/" target="_blank">
-      <img src="https://img.icons8.com/fluency/65/linkedin.png" width="65" height="65" hspace="15" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kaushikkanduri883@gmail.com" target="_blank">
-      <img src="https://cdn.simpleicons.org/gmail/EA4335" width="65" height="60" hspace="15" alt="Gmail"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewkaushik404&theme=tokyonight&hide_border=true" />
 </p>
 
----
-## 💻 Tech Stack
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codewkaushik404&theme=react-dark&hide_border=true&area=true)
 
-### Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" hspace="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" hspace="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" hspace="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" height="65" hspace="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65" hspace="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" hspace="15"/>
-</p>
 
----
-
-### Frameworks & Libraries
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" hspace="15"/>
-   <img src="https://skillicons.dev/icons?i=express" width="65" height="65" hspace="15" alt="Express.js"/>
-   <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" hspace="15" alt="Flask"/>
- 
-</p>
-
----
-
-### Databases
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" hspace="15"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-jwt-3628927-3030165.png?f=webp&w=256" width="65" height="65" hspace="15" alt="JWT"/>
-</p>
-
----
-
-### Tools & Platforms
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" hspace="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="65" height="65" hspace="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="65" height="65" hspace="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" hspace="15"/>
-  <img src="https://skillicons.dev/icons?i=github" width="65" height="65" hspace="15" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="65" height="65" hspace="15"/>
-</p>
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=codewkaushik404&icon=7&color=9)](https://visitcount.itsvg.in)
 
 
