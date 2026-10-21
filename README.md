@@ -14,6 +14,7 @@ I'm a Computer Science undergrad who enjoys building things and understanding ho
 Through my projects and open-source contributions, including work on OpenLake's student platform at IIT Bhilai, I've worked on backend logic, data flow, and connecting different parts of an application. I like approaching problems from first principles, thinking through edge cases, and keeping systems simple, maintainable, and correct.
 
 I'm looking to grow as a backend engineer by working on real engineering problems, taking ownership of features, and building software that holds up beyond the happy path.
+
 ---
 
 ## Open Source Contributions
