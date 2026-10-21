@@ -18,7 +18,7 @@ I'm looking to grow as a backend engineer by working on real engineering problem
 
 ## Open Source Contributions
 
-**Summary:** 15 pull requests across 5 external repositories. 5 merged, 4 open and under review, 6 closed (superseded, duplicate, or rejected).
+**Summary:** 15 pull requests across 5 external repositories. 5 merged, 4 open and under review, 6 closed.
 
 ### OpenLake / Student_Database_COSA (Node.js, Express, MongoDB, React)
 
